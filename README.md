@@ -26,5 +26,8 @@ with my family and hanging out with my friends :dancer:
 - <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>   
 :heavy_minus_sign:     
 
+:speech_balloon: : Catalan, Spanish and English     
+:soon: Starting with ML
+
 ### The future :crystal_ball:    
 I hope to find a job where I'd learn a lot of things, in terms of knowledge and professional experience. I also expect to gain in self-assurance to be more competitive. And, of course, to see more girls around here! My long-term goal is Data Science, specially Machine Learning and fullfil my passion for data manipulation.
